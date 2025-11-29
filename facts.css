@@ -91,6 +91,7 @@ footer {
     text-align: center;
     color: white;
     margin-top: 40px;
+    flex-wrap: wrap;
 }
 footer a{
   color: white;
@@ -147,3 +148,4 @@ footer a:hover{
   }
 
 }
+
