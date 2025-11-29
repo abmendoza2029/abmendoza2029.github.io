@@ -83,6 +83,7 @@ footer {
     text-align: center;
     color: white;
     margin-top: 250px;
+    flex-wrap: wrap;
 }
 footer a, p{
   color: white;
@@ -128,5 +129,6 @@ footer a:hover{
     font-size: 40px;
   }
 }
+
 
 
