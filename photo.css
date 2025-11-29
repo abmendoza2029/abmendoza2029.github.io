@@ -59,7 +59,7 @@ header a:hover {
   color: white;
 }
 .phone-dropdown {
-  margin-right: 115px;
+  margin-right: 120px;
   display: none;
 }
 .phone-dropdown:hover .dropdown-menu{
@@ -159,4 +159,5 @@ h1 {
   font-weight: 700;
   color: white;
   font-size: 1.1em;
+
 }
