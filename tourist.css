@@ -83,6 +83,7 @@ footer {
     text-align: center;
     color: white;
     margin-top: 40px;
+    flex-wrap: wrap;
 }
 footer a, p{
   color: white;
@@ -161,3 +162,4 @@ h1 {
   font-size: 1.1em;
 
 }
+
